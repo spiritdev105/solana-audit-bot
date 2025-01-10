@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@solana/web3.js": "^1.98.0",
+    "@tensorflow/tfjs": "^4.22.0",
     "next": "15.1.4",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
