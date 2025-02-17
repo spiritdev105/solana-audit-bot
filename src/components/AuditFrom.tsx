@@ -29,7 +29,7 @@ const AuditForm = () => {
 
   return (
     <div className="p-4 max-w-md mx-auto">
-      <h1 className="text-2xl font-bold mb-4">Smart Contract Audit</h1>
+      <h1 className="text-2xl font-bold mb-4">Smart Contract Audit Bot</h1>
       <form onSubmit={handleSubmit} className="flex flex-col">
         <input
           type="text"
